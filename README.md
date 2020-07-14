@@ -237,9 +237,9 @@ Please describe the data. Do you see any trends or Seasonality?
 # __SOLUTION__
 print('''
 There is a repeating pattern in these data that 
-repeats about every 5 years, and serves as evidence of seasonality. 
+repeats about every 10 years, and serves as evidence of seasonality. 
 There is some evidence of a repeating cycle every 100 years as well,
-but this pattern is much more subtle than the 5 year seasonality.''')
+but this pattern is much more subtle than the 10 year seasonality.''')
 ```
 
     

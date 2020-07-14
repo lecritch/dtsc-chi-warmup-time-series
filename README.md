@@ -124,7 +124,8 @@ We will down sample our data to a `calendar year end` [yearly frequency](https:/
 
 
 ```python
-yearly = df.sunspots.resample('A').mean()
+# Your code here
+yearly = None
 ```
 
 Run the cell below to test your results!

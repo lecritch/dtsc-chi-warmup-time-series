@@ -244,9 +244,9 @@ but this pattern is much more subtle than the 10 year seasonality.''')
 
     
     There is a repeating pattern in these data that 
-    repeats about every 5 years, and serves as evidence of seasonality. 
+    repeats about every 10 years, and serves as evidence of seasonality. 
     There is some evidence of a repeating cycle every 100 years as well,
-    but this pattern is much more subtle than the 5 year seasonality.
+    but this pattern is much more subtle than the 10 year seasonality.
 
 
 **Let's find the rolling mean with a window of 3 time steps**
